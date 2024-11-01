@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*#sortable { list-style-type: none; margin: 0; padding: 0; width: 100%; }
+  #sortable li { margin: 0 3px 3px 3px; padding: 0; padding-left: 1.5em; font-size: 1.4em; height: 36px; }
+  #sortable li span { position: absolute; margin-left: -1.3em; }
+ 
+  #sortable li input[type=text] {
+	height:28px;
+  }
+  
+  #sortable li input[type=checkbox] {
+	margin-top:1px;
+  }
+  
+  p.variable{
+	  padding-top:3px;
+  }*/
+  
+  #sortable li span {
+	  display:inline-block;
+	   padding-left:10px;
+	 	padding-right:10px;
+  }
